@@ -1,0 +1,5 @@
+Munich 15
+London 16
+Paris 17
+Zurich 18
+Berlin 19
